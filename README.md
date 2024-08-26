@@ -1,7 +1,7 @@
-# Oracle-Cloud-Infrastructure-ONE
+# Oracle Cloud Infrastructure: base de datos e infraestructura como código
 
-Cloud computing, ou computación en la nube, posibilita el acceso a sistemas, archivos y procesamiento de datos por internet. Esta tecnologia está en constante crecimiento y la búsqueda por profesionales preparados para trabajar con cloud viene expandiéndose también.
-
-La formación de Oracle Cloud Infrastructure va a ayudarte a crear tus primeros servicios en la nube de Oracle.
-
-En esta etapa vas a aprender los conceptos básicos de computación en nube y compreenderás la arquitectura de Oracle Cloud. Vas a crear tus primeros servicios en la nube de Oracle como ser redes virtuales y un load balancer. Vas a aprender a crear y configurar un compute para hospedar una aplicación.
+- Cloud Computing
+- conceptos de bases de datos en la nube
+- crear y configurar un compute para hospedar una aplicación NodeJS
+- Hospeda una página estática en Object Storage de Oracle Cloud
+- Realiza la implementación de infraestructuras como código en Oracle Cloud
