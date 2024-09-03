@@ -5,3 +5,5 @@
 - crear y configurar un compute para hospedar una aplicación NodeJS
 - Hospeda una página estática en Object Storage de Oracle Cloud
 - Realiza la implementación de infraestructuras como código en Oracle Cloud
+
+
